@@ -4,24 +4,14 @@ Participantes: Gabriel da Silva Soares, Max Daniel e Verner de Oliveira.
 Este repositório contém o desenvolvimento de um sistema de gerenciamento para Barbearia/Salão, implementando o conceito CRUD (Create, Read, Updtade, Delete) nas suas áreas mais críticas.
 O sistema é responsável pelo controle de:
 
--Clientes: Cadastro, consulta e manuntenção de dados, esssencial para o histórico e relacionamento;
+-Clientes: Cadastro, consulta e manuntenção de dados, focado no visual para boa apresentação;
 
 -Serviços: Gestão completa dos serviços oferecidos, incluindo a definição de preços.
 _______________________________________
 
-Documentação do Projeto - Sistema de Barbearia. 
-
-Integrantes: Max Daniel, Verner Veras e Gabriel da Silva Soares
-Disciplina: Desenvolvimento Web
-Professor: Lucas Clovis
-Data: 18/10/2025
-
-
----
-
 1. Descrição do Projeto
 
-O projeto consiste no desenvolvimento de um sistema de barbearia utilizando as linguagens HTML, CSS e JavaScript.
+O projeto consiste no desenvolvimento de um sistema de barbearia utilizando as linguagens HTML, CSS .
 O objetivo é criar uma base funcional que represente a estrutura principal do site, incluindo páginas, menus e seções, para futuras implementações como sistema de agendamento, cadastro de clientes e gerenciamento de horários.
 
 
