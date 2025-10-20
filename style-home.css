@@ -1,0 +1,60 @@
+header{
+    font-size: 50px;
+    background: #B77333;
+    display: inline;
+
+}
+
+.title_center{
+    font-size: 40px;
+    text-align: center;
+}
+
+.main{
+    background: #CCCCCC;
+    padding: 10px;/*espaço ao redor do elemento dentro das bordas*/
+
+}
+
+#banner{
+    width: 600%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;   
+}
+
+p{
+    text-align: center;
+}
+
+#greate{
+    font-size: 20px;
+}
+
+em strong{
+    color: red;
+}
+
+.benefits{
+    background: #ffffff;
+    padding: 10px;/* para o espaço*/
+}
+
+h2{
+    font-size: 40px;
+    text-align: center;/*perto do centro*/
+}
+
+#banner_below{
+    width: 50%;     
+    display: inline-block;
+    margin-left: 5%;
+}
+
+ul{
+    font-size: 25px;
+    display: inline-block; /*apenas o tamanho do conteúdo padrão, mas pode editar o tamanho*/
+    vertical-align: top; /* perto do topo*/
+    margin-left: 10%; /*espaço externo*/
+}
