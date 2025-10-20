@@ -32,7 +32,7 @@ Página inicial da barbearia com informações básicas
 
 Estrutura de navegação entre páginas
 
-Layout inicial das seções (Home, que se clicar recarrega a página, produtos e contato)
+Layout inicial das seções (Home (que se clicar recarrega a página), produtos e contato)
 
 
 Ainda faltam funcionalidades como o agendamento, validação de formulários e armazenamento de dados.
