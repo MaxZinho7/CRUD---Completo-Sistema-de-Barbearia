@@ -1,4 +1,4 @@
-# CRUD---Desenvolvimento Web |
+# CRUD---Desenvolvimento Web |.
 Participantes: Gabriel da Silva Soares, Max Daniel e Verner de Oliveira.
 
 Este repositório contém o desenvolvimento de um sistema de gerenciamento para Barbearia/Salão, implementando o conceito CRUD (Create, Read, Updtade, Delete) nas suas áreas mais críticas.
